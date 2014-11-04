@@ -1,0 +1,8 @@
+* Quick overview of test environment with vagrant
+* Add a puppet agent to puppetmaster
+* Demo of creating a file, a user, a package, starting a service
+* Show facter on one of the nodes
+* Demo of a template using something from facter
+* Passing data into a module using parameters
+* Passing data into a module using hiera data bindings
+* PuppetDB demo - hosts file entries
