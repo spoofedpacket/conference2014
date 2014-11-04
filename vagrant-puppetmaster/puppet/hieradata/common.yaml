@@ -1,0 +1,4 @@
+---
+# Common data for hosts module
+#
+heanet2014::hosts::custom_hosts_entry     : "127.0.1.3" 
